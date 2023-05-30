@@ -1,0 +1,26 @@
+body{
+    background: rgb(236, 145, 236);
+}
+
+h1,h2,p,div{
+    text-align: center;
+}
+
+input{
+    border-radius: 5px;
+    background-color: rgb(235, 248, 53);
+    width: 15%;
+}
+
+select{
+        border-radius: 5px;
+        background-color: rgb(235, 248, 53);
+        width: 10%;
+}
+
+.foto1{
+    float: inline-start;
+    width: 10%;
+    display:block;
+    margin:auto;
+}
